@@ -6,11 +6,9 @@
 + 服务端api基于Ｎode.js+ThinkJS+MySQL
 + 计划添加基于Vue.js的后台管理系统、PC版、Ｗap版
 
-**注意：当前版本功能还未完善，请勿商用。**
+**注意：由于原作者不再维护，我们 fork 了次仓库继续添砖加瓦，当前版本功能还未完善，商用需谨慎。**
 
-本项目需要配合NideShop商城服务端使用，GitHub: [https://github.com/tumobi/nideshop](https://github.com/tumobi/nideshop)
-
-[云服务器ECS-云主机优惠-2折上云](https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=3grpysgf)
+本项目需要配合NideShop商城服务端使用，GitHub: [https://github.com/Run2948/nideshop](https://github.com/Run2948/nideshop)
 
 ### 项目截图
 
@@ -27,7 +25,6 @@
 ![购物车](http://upload-images.jianshu.io/upload_images/3985656-60ff2307d81f6bb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/320)
 
 ![订单中心](http://upload-images.jianshu.io/upload_images/3985656-dff837e6b2ec87b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/320)
-
 
 
 ### 功能列表
@@ -86,9 +83,10 @@
 ```
 
 ### 服务端api
-项目地址：https://github.com/tumobi/nideshop
+项目地址：https://github.com/Run2948/nideshop
 
 ### 交流
-喜欢别忘了 Star，有问题可通过微信、公众号、QQ 群联系我，谢谢您的关注。
+喜欢别忘了 Star，有问题可通过 QQ群：1040822138 联系我们，谢谢您的关注。
 
-![联系方式](http://nideshop-static.childsay.com/nideshop-qrcode.png)
+[点击链接加入群聊【NideShop舔砖加瓦】](https://jq.qq.com/?_wv=1027&k=biLhogLL)
+
